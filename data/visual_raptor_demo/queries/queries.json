@@ -1,0 +1,72 @@
+[
+  {
+    "query_id": "query_000",
+    "text": "インフラ復旧計画",
+    "language": "ja",
+    "category": "recovery",
+    "difficulty": "hard"
+  },
+  {
+    "query_id": "query_001",
+    "text": "災害対策本部からの通知",
+    "language": "ja",
+    "category": "administration",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_002",
+    "text": "緊急避難経路はどこですか",
+    "language": "ja",
+    "category": "evacuation",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_003",
+    "text": "緊急避難経路はどこですか",
+    "language": "ja",
+    "category": "evacuation",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_004",
+    "text": "緊急避難経路はどこですか",
+    "language": "ja",
+    "category": "evacuation",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_005",
+    "text": "仮設住宅の配置図",
+    "language": "ja",
+    "category": "recovery",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "query_006",
+    "text": "インフラ復旧計画",
+    "language": "ja",
+    "category": "recovery",
+    "difficulty": "hard"
+  },
+  {
+    "query_id": "query_007",
+    "text": "津波の危険性について",
+    "language": "ja",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "query_008",
+    "text": "避難指示の詳細",
+    "language": "ja",
+    "category": "administration",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_009",
+    "text": "経済的損失の評価",
+    "language": "ja",
+    "category": "statistics",
+    "difficulty": "hard"
+  }
+]

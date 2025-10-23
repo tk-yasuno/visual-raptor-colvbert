@@ -1,0 +1,330 @@
+{
+  "performance_stats": {
+    "total_documents": 200,
+    "total_queries": 10,
+    "index_build_time": 87.01157832145691,
+    "avg_search_time": 0.11875700950622559,
+    "min_search_time": 0.07273554801940918,
+    "max_search_time": 0.34936022758483887,
+    "total_search_time": 1.1875700950622559,
+    "gpu_memory_allocated": 0.00933888,
+    "gpu_memory_cached": 0.023068672
+  },
+  "search_results": {
+    "query_1": {
+      "query": "地震が発生したときの避難方法",
+      "search_time": 0.34936022758483887,
+      "results": [
+        {
+          "title": "地震発生時の避難手順 #93",
+          "category": "earthquake",
+          "score": 0.7684216499328613
+        },
+        {
+          "title": "地震発生時の避難手順 #37",
+          "category": "earthquake",
+          "score": 0.7669210433959961
+        },
+        {
+          "title": "地震発生時の避難手順 #29",
+          "category": "earthquake",
+          "score": 0.7646586894989014
+        },
+        {
+          "title": "地震発生時の避難手順 #21",
+          "category": "earthquake",
+          "score": 0.7644989490509033
+        },
+        {
+          "title": "地震発生時の避難手順 #133",
+          "category": "earthquake",
+          "score": 0.7623271942138672
+        }
+      ]
+    },
+    "query_2": {
+      "query": "津波警報時の緊急対応",
+      "search_time": 0.1099538803100586,
+      "results": [
+        {
+          "title": "水害時の避難行動 #164",
+          "category": "flood",
+          "score": 0.6144753694534302
+        },
+        {
+          "title": "水害時の避難行動 #188",
+          "category": "flood",
+          "score": 0.6109969615936279
+        },
+        {
+          "title": "消防設備点検マニュアル #119",
+          "category": "fire",
+          "score": 0.6087477207183838
+        },
+        {
+          "title": "土砂災害警戒情報 #108",
+          "category": "flood",
+          "score": 0.6085526943206787
+        },
+        {
+          "title": "水害時の避難行動 #172",
+          "category": "flood",
+          "score": 0.6079828143119812
+        }
+      ]
+    },
+    "query_3": {
+      "query": "火災発生時の初期消火手順",
+      "search_time": 0.1068110466003418,
+      "results": [
+        {
+          "title": "火災発生時の初期消火 #195",
+          "category": "fire",
+          "score": 0.8932046890258789
+        },
+        {
+          "title": "火災発生時の初期消火 #179",
+          "category": "fire",
+          "score": 0.8914494514465332
+        },
+        {
+          "title": "火災発生時の初期消火 #3",
+          "category": "fire",
+          "score": 0.8889271020889282
+        },
+        {
+          "title": "火災発生時の初期消火 #155",
+          "category": "fire",
+          "score": 0.8877384662628174
+        },
+        {
+          "title": "火災発生時の初期消火 #103",
+          "category": "fire",
+          "score": 0.8873846530914307
+        }
+      ]
+    },
+    "query_4": {
+      "query": "水害時の避難行動",
+      "search_time": 0.09274673461914062,
+      "results": [
+        {
+          "title": "水害時の避難行動 #112",
+          "category": "flood",
+          "score": 0.8654678463935852
+        },
+        {
+          "title": "水害時の避難行動 #148",
+          "category": "flood",
+          "score": 0.864532470703125
+        },
+        {
+          "title": "水害時の避難行動 #132",
+          "category": "flood",
+          "score": 0.8592109680175781
+        },
+        {
+          "title": "内水氾濫避難ガイド #88",
+          "category": "flood",
+          "score": 0.8508909344673157
+        },
+        {
+          "title": "水害時の避難行動 #164",
+          "category": "flood",
+          "score": 0.8496288061141968
+        }
+      ]
+    },
+    "query_5": {
+      "query": "緊急時の連絡体制",
+      "search_time": 0.08304286003112793,
+      "results": [
+        {
+          "title": "水害時の避難行動 #164",
+          "category": "flood",
+          "score": 0.6220448017120361
+        },
+        {
+          "title": "消防設備点検マニュアル #119",
+          "category": "fire",
+          "score": 0.620938777923584
+        },
+        {
+          "title": "水害時の避難行動 #188",
+          "category": "flood",
+          "score": 0.6198807954788208
+        },
+        {
+          "title": "消防設備点検マニュアル #163",
+          "category": "fire",
+          "score": 0.6165152788162231
+        },
+        {
+          "title": "土砂災害警戒情報 #108",
+          "category": "flood",
+          "score": 0.6164484024047852
+        }
+      ]
+    },
+    "query_6": {
+      "query": "避難所での生活ガイド",
+      "search_time": 0.10103201866149902,
+      "results": [
+        {
+          "title": "火災予防対策ガイド #63",
+          "category": "fire",
+          "score": 0.7642389535903931
+        },
+        {
+          "title": "火災予防対策ガイド #143",
+          "category": "fire",
+          "score": 0.7626261711120605
+        },
+        {
+          "title": "火災予防対策ガイド #171",
+          "category": "fire",
+          "score": 0.7621915340423584
+        },
+        {
+          "title": "火災予防対策ガイド #19",
+          "category": "fire",
+          "score": 0.7570860981941223
+        },
+        {
+          "title": "火災予防対策ガイド #15",
+          "category": "fire",
+          "score": 0.756248414516449
+        }
+      ]
+    },
+    "query_7": {
+      "query": "災害備蓄品の準備",
+      "search_time": 0.08028411865234375,
+      "results": [
+        {
+          "title": "水害時の避難行動 #164",
+          "category": "flood",
+          "score": 0.6098459959030151
+        },
+        {
+          "title": "水害時の避難行動 #188",
+          "category": "flood",
+          "score": 0.607081413269043
+        },
+        {
+          "title": "土砂災害警戒情報 #108",
+          "category": "flood",
+          "score": 0.6058011054992676
+        },
+        {
+          "title": "消防設備点検マニュアル #119",
+          "category": "fire",
+          "score": 0.6049036979675293
+        },
+        {
+          "title": "消防設備点検マニュアル #163",
+          "category": "fire",
+          "score": 0.6041475534439087
+        }
+      ]
+    },
+    "query_8": {
+      "query": "応急手当の基本知識",
+      "search_time": 0.08998250961303711,
+      "results": [
+        {
+          "title": "火災発生時の初期消火 #195",
+          "category": "fire",
+          "score": 0.6849595904350281
+        },
+        {
+          "title": "火災予防対策ガイド #199",
+          "category": "fire",
+          "score": 0.6826862096786499
+        },
+        {
+          "title": "火災予防対策ガイド #19",
+          "category": "fire",
+          "score": 0.6820211410522461
+        },
+        {
+          "title": "火災予防対策ガイド #27",
+          "category": "fire",
+          "score": 0.6784356832504272
+        },
+        {
+          "title": "火災予防対策ガイド #107",
+          "category": "fire",
+          "score": 0.6777983903884888
+        }
+      ]
+    },
+    "query_9": {
+      "query": "停電時の対応策",
+      "search_time": 0.07273554801940918,
+      "results": [
+        {
+          "title": "消防設備点検マニュアル #119",
+          "category": "fire",
+          "score": 0.6199590563774109
+        },
+        {
+          "title": "水害時の避難行動 #164",
+          "category": "flood",
+          "score": 0.6181130409240723
+        },
+        {
+          "title": "水害時の避難行動 #188",
+          "category": "flood",
+          "score": 0.6166638135910034
+        },
+        {
+          "title": "消防設備点検マニュアル #163",
+          "category": "fire",
+          "score": 0.6151010990142822
+        },
+        {
+          "title": "津波避難ビル指定施設 #78",
+          "category": "tsunami",
+          "score": 0.6144651174545288
+        }
+      ]
+    },
+    "query_10": {
+      "query": "高齢者への災害支援",
+      "search_time": 0.10162115097045898,
+      "results": [
+        {
+          "title": "火災予防対策ガイド #19",
+          "category": "fire",
+          "score": 0.7254348993301392
+        },
+        {
+          "title": "火災予防対策ガイド #199",
+          "category": "fire",
+          "score": 0.7231661081314087
+        },
+        {
+          "title": "火災予防対策ガイド #107",
+          "category": "fire",
+          "score": 0.7207608222961426
+        },
+        {
+          "title": "火災予防対策ガイド #63",
+          "category": "fire",
+          "score": 0.718401312828064
+        },
+        {
+          "title": "消防設備点検マニュアル #119",
+          "category": "fire",
+          "score": 0.7169956564903259
+        }
+      ]
+    }
+  },
+  "gpu_info": {
+    "device_name": "NVIDIA GeForce RTX 4060 Ti",
+    "cuda_version": "11.8",
+    "pytorch_version": "2.7.1+cu118"
+  }
+}

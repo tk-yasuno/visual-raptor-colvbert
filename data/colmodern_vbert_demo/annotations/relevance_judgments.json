@@ -1,0 +1,77 @@
+[
+  {
+    "query_id": "query_000",
+    "doc_id": "doc_0006",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_000",
+    "doc_id": "doc_0016",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_000",
+    "doc_id": "doc_0015",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_001",
+    "doc_id": "doc_0007",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_001",
+    "doc_id": "doc_0014",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_001",
+    "doc_id": "doc_0011",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_002",
+    "doc_id": "doc_0000",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_002",
+    "doc_id": "doc_0018",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_002",
+    "doc_id": "doc_0015",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_003",
+    "doc_id": "doc_0014",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_003",
+    "doc_id": "doc_0011",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_003",
+    "doc_id": "doc_0007",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_004",
+    "doc_id": "doc_0009",
+    "relevance": 1
+  },
+  {
+    "query_id": "query_004",
+    "doc_id": "doc_0011",
+    "relevance": 2
+  },
+  {
+    "query_id": "query_004",
+    "doc_id": "doc_0007",
+    "relevance": 2
+  }
+]

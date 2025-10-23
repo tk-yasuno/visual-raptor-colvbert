@@ -1,0 +1,72 @@
+[
+  {
+    "doc_id": "evac_map_001",
+    "title": "避難マップ - 中央地区",
+    "content": "中央地区の避難所：中央小学校体育館（収容人数200名）、避難経路：国道1号線経由",
+    "category": "evacuation_map",
+    "metadata": {
+      "area": "中央地区",
+      "capacity": 200,
+      "type": "evacuation"
+    }
+  },
+  {
+    "doc_id": "recovery_001",
+    "title": "復旧計画書 - インフラ復旧",
+    "content": "道路復旧：国道1号線の復旧完了（進捗90%）、水道復旧：配水管の修復作業中（進捗60%）",
+    "category": "recovery_plan",
+    "metadata": {
+      "progress": {
+        "road": 90,
+        "water": 60
+      },
+      "type": "infrastructure"
+    }
+  },
+  {
+    "doc_id": "admin_notice_001",
+    "title": "行政通知 - 避難指示",
+    "content": "台風接近に伴い、低地地域に避難指示を発令。指定避難所：中央小学校、南部公民館",
+    "category": "admin_notice",
+    "metadata": {
+      "urgency": "high",
+      "affected_areas": [
+        "低地地域"
+      ],
+      "type": "evacuation_order"
+    }
+  },
+  {
+    "doc_id": "damage_report_001",
+    "title": "被害報告書",
+    "content": "人的被害：負傷者5名、建物被害：全壊3棟、半壊15棟、停電：1,200世帯",
+    "category": "damage_report",
+    "metadata": {
+      "casualties": {
+        "injured": 5
+      },
+      "buildings": {
+        "destroyed": 3,
+        "damaged": 15
+      },
+      "utilities": {
+        "power_outage": 1200
+      }
+    }
+  },
+  {
+    "doc_id": "support_info_001",
+    "title": "支援物資配布情報",
+    "content": "配布場所：中央小学校、配布時間：9:00-17:00、配布物資：水、食料、毛布",
+    "category": "support_info",
+    "metadata": {
+      "location": "中央小学校",
+      "hours": "9:00-17:00",
+      "supplies": [
+        "水",
+        "食料",
+        "毛布"
+      ]
+    }
+  }
+]

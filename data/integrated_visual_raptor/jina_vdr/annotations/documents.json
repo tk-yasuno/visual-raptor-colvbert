@@ -1,0 +1,652 @@
+[
+  {
+    "doc_id": "doc_0000",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\infrastructure_0000.png",
+    "text_content": "インフラ情報                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "infrastructure",
+    "subcategory": "インフラ情報",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0001",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\statistics_0001.png",
+    "text_content": "統計データ                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "statistics",
+    "subcategory": "統計データ",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0002",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\damage_report_0002.png",
+    "text_content": "被害報告書                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "damage_report",
+    "subcategory": "被害報告書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0003",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\education_material_0003.png",
+    "text_content": "防災教育資料                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "education_material",
+    "subcategory": "防災教育資料",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0004",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\support_info_0004.png",
+    "text_content": "支援情報                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "support_info",
+    "subcategory": "支援情報",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0005",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\evacuation_map_0005.png",
+    "text_content": "\n避難マップ\n\n避難場所：○○小学校体育館\n収容人数：200名\n所在地：○○市○○町1-1-1\n連絡先：XXX-XXX-XXXX\n\n避難経路：\n- 国道○号線を北上\n- ○○橋を渡る\n- 信号を右折\n\n注意事項：\n- 徒歩での避難を推奨\n- ペット同伴可\n- 食料・水は3日分持参\n",
+    "category": "evacuation_map",
+    "subcategory": "避難マップ",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0006",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\evacuation_map_0006.png",
+    "text_content": "\n避難マップ\n\n避難場所：○○小学校体育館\n収容人数：200名\n所在地：○○市○○町1-1-1\n連絡先：XXX-XXX-XXXX\n\n避難経路：\n- 国道○号線を北上\n- ○○橋を渡る\n- 信号を右折\n\n注意事項：\n- 徒歩での避難を推奨\n- ペット同伴可\n- 食料・水は3日分持参\n",
+    "category": "evacuation_map",
+    "subcategory": "避難マップ",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0007",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\admin_notice_0007.png",
+    "text_content": "\n行政からのお知らせ\n\n件名：行政通知\n発行日：2024年1月15日\n発行者：○○市災害対策本部\n\n市民の皆様へ\n\n○○地区における復旧作業について下記の通りお知らせいたします。\n\n詳細は市ホームページをご確認ください。\n問い合わせ先：○○市役所 XXX-XXX-XXXX\n",
+    "category": "admin_notice",
+    "subcategory": "行政通知",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0008",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\statistics_0008.png",
+    "text_content": "統計データ                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "statistics",
+    "subcategory": "統計データ",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0009",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\support_info_0009.png",
+    "text_content": "支援情報                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "support_info",
+    "subcategory": "支援情報",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0010",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\education_material_0010.png",
+    "text_content": "防災教育資料                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "education_material",
+    "subcategory": "防災教育資料",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0011",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\statistics_0011.png",
+    "text_content": "統計データ                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "statistics",
+    "subcategory": "統計データ",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0012",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\education_material_0012.png",
+    "text_content": "防災教育資料                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "education_material",
+    "subcategory": "防災教育資料",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0013",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\education_material_0013.png",
+    "text_content": "防災教育資料                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "education_material",
+    "subcategory": "防災教育資料",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0014",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\recovery_plan_0014.png",
+    "text_content": "\n復旧計画書\n\n復旧計画概要\n対象地域：○○地区\n期間：2024年4月～2025年3月\n\n主要項目：\n1. 道路復旧（○○道路他）\n2. 上下水道復旧\n3. 電力インフラ復旧\n4. 通信設備復旧\n\n予算：総額○○億円\n進捗：現在30%完了\n",
+    "category": "recovery_plan",
+    "subcategory": "復旧計画書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0015",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\evacuation_map_0015.png",
+    "text_content": "\n避難マップ\n\n避難場所：○○小学校体育館\n収容人数：200名\n所在地：○○市○○町1-1-1\n連絡先：XXX-XXX-XXXX\n\n避難経路：\n- 国道○号線を北上\n- ○○橋を渡る\n- 信号を右折\n\n注意事項：\n- 徒歩での避難を推奨\n- ペット同伴可\n- 食料・水は3日分持参\n",
+    "category": "evacuation_map",
+    "subcategory": "避難マップ",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0016",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\education_material_0016.png",
+    "text_content": "防災教育資料                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "education_material",
+    "subcategory": "防災教育資料",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0017",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\recovery_plan_0017.png",
+    "text_content": "\n復旧計画書\n\n復旧計画概要\n対象地域：○○地区\n期間：2024年4月～2025年3月\n\n主要項目：\n1. 道路復旧（○○道路他）\n2. 上下水道復旧\n3. 電力インフラ復旧\n4. 通信設備復旧\n\n予算：総額○○億円\n進捗：現在30%完了\n",
+    "category": "recovery_plan",
+    "subcategory": "復旧計画書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0018",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\statistics_0018.png",
+    "text_content": "統計データ                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "statistics",
+    "subcategory": "統計データ",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0019",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\admin_notice_0019.png",
+    "text_content": "\n行政からのお知らせ\n\n件名：行政通知\n発行日：2024年1月15日\n発行者：○○市災害対策本部\n\n市民の皆様へ\n\n○○地区における復旧作業について下記の通りお知らせいたします。\n\n詳細は市ホームページをご確認ください。\n問い合わせ先：○○市役所 XXX-XXX-XXXX\n",
+    "category": "admin_notice",
+    "subcategory": "行政通知",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0020",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\infrastructure_0020.png",
+    "text_content": "インフラ情報                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "infrastructure",
+    "subcategory": "インフラ情報",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0021",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\recovery_plan_0021.png",
+    "text_content": "\n復旧計画書\n\n復旧計画概要\n対象地域：○○地区\n期間：2024年4月～2025年3月\n\n主要項目：\n1. 道路復旧（○○道路他）\n2. 上下水道復旧\n3. 電力インフラ復旧\n4. 通信設備復旧\n\n予算：総額○○億円\n進捗：現在30%完了\n",
+    "category": "recovery_plan",
+    "subcategory": "復旧計画書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0022",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\education_material_0022.png",
+    "text_content": "防災教育資料                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "education_material",
+    "subcategory": "防災教育資料",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0023",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\recovery_plan_0023.png",
+    "text_content": "\n復旧計画書\n\n復旧計画概要\n対象地域：○○地区\n期間：2024年4月～2025年3月\n\n主要項目：\n1. 道路復旧（○○道路他）\n2. 上下水道復旧\n3. 電力インフラ復旧\n4. 通信設備復旧\n\n予算：総額○○億円\n進捗：現在30%完了\n",
+    "category": "recovery_plan",
+    "subcategory": "復旧計画書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0024",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\admin_notice_0024.png",
+    "text_content": "\n行政からのお知らせ\n\n件名：行政通知\n発行日：2024年1月15日\n発行者：○○市災害対策本部\n\n市民の皆様へ\n\n○○地区における復旧作業について下記の通りお知らせいたします。\n\n詳細は市ホームページをご確認ください。\n問い合わせ先：○○市役所 XXX-XXX-XXXX\n",
+    "category": "admin_notice",
+    "subcategory": "行政通知",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0025",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\recovery_plan_0025.png",
+    "text_content": "\n復旧計画書\n\n復旧計画概要\n対象地域：○○地区\n期間：2024年4月～2025年3月\n\n主要項目：\n1. 道路復旧（○○道路他）\n2. 上下水道復旧\n3. 電力インフラ復旧\n4. 通信設備復旧\n\n予算：総額○○億円\n進捗：現在30%完了\n",
+    "category": "recovery_plan",
+    "subcategory": "復旧計画書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0026",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\infrastructure_0026.png",
+    "text_content": "インフラ情報                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "infrastructure",
+    "subcategory": "インフラ情報",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0027",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\education_material_0027.png",
+    "text_content": "防災教育資料                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "education_material",
+    "subcategory": "防災教育資料",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0028",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\infrastructure_0028.png",
+    "text_content": "インフラ情報                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "infrastructure",
+    "subcategory": "インフラ情報",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0029",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\damage_report_0029.png",
+    "text_content": "被害報告書                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "damage_report",
+    "subcategory": "被害報告書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0030",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\admin_notice_0030.png",
+    "text_content": "\n行政からのお知らせ\n\n件名：行政通知\n発行日：2024年1月15日\n発行者：○○市災害対策本部\n\n市民の皆様へ\n\n○○地区における復旧作業について下記の通りお知らせいたします。\n\n詳細は市ホームページをご確認ください。\n問い合わせ先：○○市役所 XXX-XXX-XXXX\n",
+    "category": "admin_notice",
+    "subcategory": "行政通知",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0031",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\statistics_0031.png",
+    "text_content": "統計データ                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "statistics",
+    "subcategory": "統計データ",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0032",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\infrastructure_0032.png",
+    "text_content": "インフラ情報                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "infrastructure",
+    "subcategory": "インフラ情報",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0033",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\education_material_0033.png",
+    "text_content": "防災教育資料                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "education_material",
+    "subcategory": "防災教育資料",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0034",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\evacuation_map_0034.png",
+    "text_content": "\n避難マップ\n\n避難場所：○○小学校体育館\n収容人数：200名\n所在地：○○市○○町1-1-1\n連絡先：XXX-XXX-XXXX\n\n避難経路：\n- 国道○号線を北上\n- ○○橋を渡る\n- 信号を右折\n\n注意事項：\n- 徒歩での避難を推奨\n- ペット同伴可\n- 食料・水は3日分持参\n",
+    "category": "evacuation_map",
+    "subcategory": "避難マップ",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0035",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\recovery_plan_0035.png",
+    "text_content": "\n復旧計画書\n\n復旧計画概要\n対象地域：○○地区\n期間：2024年4月～2025年3月\n\n主要項目：\n1. 道路復旧（○○道路他）\n2. 上下水道復旧\n3. 電力インフラ復旧\n4. 通信設備復旧\n\n予算：総額○○億円\n進捗：現在30%完了\n",
+    "category": "recovery_plan",
+    "subcategory": "復旧計画書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0036",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\infrastructure_0036.png",
+    "text_content": "インフラ情報                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "infrastructure",
+    "subcategory": "インフラ情報",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0037",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\evacuation_map_0037.png",
+    "text_content": "\n避難マップ\n\n避難場所：○○小学校体育館\n収容人数：200名\n所在地：○○市○○町1-1-1\n連絡先：XXX-XXX-XXXX\n\n避難経路：\n- 国道○号線を北上\n- ○○橋を渡る\n- 信号を右折\n\n注意事項：\n- 徒歩での避難を推奨\n- ペット同伴可\n- 食料・水は3日分持参\n",
+    "category": "evacuation_map",
+    "subcategory": "避難マップ",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0038",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\damage_report_0038.png",
+    "text_content": "被害報告書                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "damage_report",
+    "subcategory": "被害報告書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0039",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\recovery_plan_0039.png",
+    "text_content": "\n復旧計画書\n\n復旧計画概要\n対象地域：○○地区\n期間：2024年4月～2025年3月\n\n主要項目：\n1. 道路復旧（○○道路他）\n2. 上下水道復旧\n3. 電力インフラ復旧\n4. 通信設備復旧\n\n予算：総額○○億円\n進捗：現在30%完了\n",
+    "category": "recovery_plan",
+    "subcategory": "復旧計画書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0040",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\damage_report_0040.png",
+    "text_content": "被害報告書                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "damage_report",
+    "subcategory": "被害報告書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0041",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\damage_report_0041.png",
+    "text_content": "被害報告書                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "damage_report",
+    "subcategory": "被害報告書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0042",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\evacuation_map_0042.png",
+    "text_content": "\n避難マップ\n\n避難場所：○○小学校体育館\n収容人数：200名\n所在地：○○市○○町1-1-1\n連絡先：XXX-XXX-XXXX\n\n避難経路：\n- 国道○号線を北上\n- ○○橋を渡る\n- 信号を右折\n\n注意事項：\n- 徒歩での避難を推奨\n- ペット同伴可\n- 食料・水は3日分持参\n",
+    "category": "evacuation_map",
+    "subcategory": "避難マップ",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0043",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\admin_notice_0043.png",
+    "text_content": "\n行政からのお知らせ\n\n件名：行政通知\n発行日：2024年1月15日\n発行者：○○市災害対策本部\n\n市民の皆様へ\n\n○○地区における復旧作業について下記の通りお知らせいたします。\n\n詳細は市ホームページをご確認ください。\n問い合わせ先：○○市役所 XXX-XXX-XXXX\n",
+    "category": "admin_notice",
+    "subcategory": "行政通知",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0044",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\recovery_plan_0044.png",
+    "text_content": "\n復旧計画書\n\n復旧計画概要\n対象地域：○○地区\n期間：2024年4月～2025年3月\n\n主要項目：\n1. 道路復旧（○○道路他）\n2. 上下水道復旧\n3. 電力インフラ復旧\n4. 通信設備復旧\n\n予算：総額○○億円\n進捗：現在30%完了\n",
+    "category": "recovery_plan",
+    "subcategory": "復旧計画書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0045",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\infrastructure_0045.png",
+    "text_content": "インフラ情報                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "infrastructure",
+    "subcategory": "インフラ情報",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0046",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\admin_notice_0046.png",
+    "text_content": "\n行政からのお知らせ\n\n件名：行政通知\n発行日：2024年1月15日\n発行者：○○市災害対策本部\n\n市民の皆様へ\n\n○○地区における復旧作業について下記の通りお知らせいたします。\n\n詳細は市ホームページをご確認ください。\n問い合わせ先：○○市役所 XXX-XXX-XXXX\n",
+    "category": "admin_notice",
+    "subcategory": "行政通知",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0047",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\admin_notice_0047.png",
+    "text_content": "\n行政からのお知らせ\n\n件名：行政通知\n発行日：2024年1月15日\n発行者：○○市災害対策本部\n\n市民の皆様へ\n\n○○地区における復旧作業について下記の通りお知らせいたします。\n\n詳細は市ホームページをご確認ください。\n問い合わせ先：○○市役所 XXX-XXX-XXXX\n",
+    "category": "admin_notice",
+    "subcategory": "行政通知",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0048",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\recovery_plan_0048.png",
+    "text_content": "\n復旧計画書\n\n復旧計画概要\n対象地域：○○地区\n期間：2024年4月～2025年3月\n\n主要項目：\n1. 道路復旧（○○道路他）\n2. 上下水道復旧\n3. 電力インフラ復旧\n4. 通信設備復旧\n\n予算：総額○○億円\n進捗：現在30%完了\n",
+    "category": "recovery_plan",
+    "subcategory": "復旧計画書",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  },
+  {
+    "doc_id": "doc_0049",
+    "image_path": "data\\integrated_visual_raptor\\jina_vdr\\images\\education_material_0049.png",
+    "text_content": "防災教育資料                関連情報：        # 東日本大震災の教訓と知見集\n\n## 被害状況\n\n### 地震と津波の概要\n2011年3月11日14時46分、三陸沖を震源とするマグニチュード9.0の巨大地震が発生しました。この地震は、日本の観測史上最大規模であり、震源域は岩手県沖から茨城県沖まで南北約500km、東西約200kmに及びました。\n\n### 人的被害\n死者15,900人、行方不明者2,525人（2021年3月時点）。この中には、津波による溺死が約9割を占めています。また、避難生活中の体調悪化などによる震災関連死は3,775人に上ります。\n\n### 建物被害\n全壊121,996戸、半壊282,941戸、一部破損747,989戸。特に、津波による被害が甚大であり、沿岸部の多くの集落が壊滅的な状況となりました。\n\n### 原子力災害\n福島第一原子力発電所で、津波により電源を喪失し、原子炉冷却機能が失われ、水素爆発が発生。大量の放射性物質が環境中に放出され、広範囲にわたる避難が必要となりました。これは地震・津波災害と原子力災害が複合した、世界でも類を見ない複合災害となりました。\n\n---\n\n## 初動対応と復旧\n\n### 自衛...",
+    "category": "education_material",
+    "subcategory": "防災教育資料",
+    "metadata": {
+      "created_date": "2024-01-01",
+      "source": "synthetic",
+      "format": "image_with_text",
+      "processing_method": "ocr_extracted"
+    }
+  }
+]

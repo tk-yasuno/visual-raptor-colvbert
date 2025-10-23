@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# PyTorch & ML Models
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+models/
+checkpoints/
+
+# Data & Results
+data/visual_raptor_run/
+data/encoder_comparison/
+data/embedding_analysis/
+data/processed_pdfs/images/
+results/*.json
+results/*.png
+results/*.txt
+*.pkl
+*.h5
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Ollama
+.ollama/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Cache
+.cache/
+*.cache
+
+# PDF files (large)
+*.pdf
+
+# Image files (large datasets)
+# data/**/*.png
+# data/**/*.jpg
+# data/**/*.jpeg
+
+# Keep example files
+!example_*.png
+!example_*.jpg

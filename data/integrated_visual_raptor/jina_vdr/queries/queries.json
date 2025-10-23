@@ -1,0 +1,142 @@
+[
+  {
+    "query_id": "query_000",
+    "text": "津波の危険性について",
+    "language": "ja",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "query_001",
+    "text": "津波避難ビルの位置",
+    "language": "ja",
+    "category": "evacuation",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "query_002",
+    "text": "災害対策本部からの通知",
+    "language": "ja",
+    "category": "administration",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_003",
+    "text": "道路復旧スケジュール",
+    "language": "ja",
+    "category": "recovery",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "query_004",
+    "text": "インフラ復旧計画",
+    "language": "ja",
+    "category": "recovery",
+    "difficulty": "hard"
+  },
+  {
+    "query_id": "query_005",
+    "text": "地震発生時の対応",
+    "language": "ja",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "query_006",
+    "text": "復興予算の内訳",
+    "language": "ja",
+    "category": "administration",
+    "difficulty": "hard"
+  },
+  {
+    "query_id": "query_007",
+    "text": "災害対策本部からの通知",
+    "language": "ja",
+    "category": "administration",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_008",
+    "text": "支援物資の配布場所",
+    "language": "ja",
+    "category": "administration",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "query_009",
+    "text": "緊急避難経路はどこですか",
+    "language": "ja",
+    "category": "evacuation",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_010",
+    "text": "避難所の場所を教えてください",
+    "language": "ja",
+    "category": "evacuation",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_011",
+    "text": "防災訓練の手順",
+    "language": "ja",
+    "category": "education",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_012",
+    "text": "復旧工事の進捗状況",
+    "language": "ja",
+    "category": "recovery",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "query_013",
+    "text": "建物被害の分析",
+    "language": "ja",
+    "category": "statistics",
+    "difficulty": "hard"
+  },
+  {
+    "query_id": "query_014",
+    "text": "安全な避難場所はありますか",
+    "language": "ja",
+    "category": "evacuation",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_015",
+    "text": "災害時の行動指針",
+    "language": "ja",
+    "category": "education",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_016",
+    "text": "安全な避難場所はありますか",
+    "language": "ja",
+    "category": "evacuation",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_017",
+    "text": "地震発生時の対応",
+    "language": "ja",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "query_018",
+    "text": "防災マップの見方",
+    "language": "ja",
+    "category": "education",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "query_019",
+    "text": "支援物資の配布場所",
+    "language": "ja",
+    "category": "administration",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "query_id": "query_000",
+    "text": "安全な避難場所はありますか",
+    "language": "ja",
+    "category": "evacuation",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "query_001",
+    "text": "インフラ復旧計画",
+    "language": "ja",
+    "category": "recovery",
+    "difficulty": "hard"
+  },
+  {
+    "query_id": "query_002",
+    "text": "避難所の収容人数",
+    "language": "ja",
+    "category": "evacuation",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "query_003",
+    "text": "復旧工事の進捗状況",
+    "language": "ja",
+    "category": "recovery",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "query_004",
+    "text": "人的被害の状況",
+    "language": "ja",
+    "category": "statistics",
+    "difficulty": "hard"
+  }
+]

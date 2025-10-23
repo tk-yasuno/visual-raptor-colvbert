@@ -1,0 +1,86 @@
+{
+  "demo_info": {
+    "title": "Visual RAPTOR ColBERT - Minimal Demo",
+    "description": "災害文書検索システムの基本機能デモ",
+    "timestamp": "2025-10-23T20:16:44.623478",
+    "version": "1.0-minimal"
+  },
+  "data_summary": {
+    "num_documents": 5,
+    "num_queries": 3,
+    "document_categories": [
+      "damage_report",
+      "admin_notice",
+      "support_info",
+      "recovery_plan",
+      "evacuation_map"
+    ]
+  },
+  "search_results": {
+    "q001": [
+      {
+        "document": {
+          "doc_id": "evac_map_001",
+          "title": "避難マップ - 中央地区",
+          "content": "中央地区の避難所：中央小学校体育館（収容人数200名）、避難経路：国道1号線経由",
+          "category": "evacuation_map",
+          "metadata": {
+            "area": "中央地区",
+            "capacity": 200,
+            "type": "evacuation"
+          }
+        },
+        "score": 0.4,
+        "relevance": "low"
+      }
+    ],
+    "q002": [
+      {
+        "document": {
+          "doc_id": "recovery_001",
+          "title": "復旧計画書 - インフラ復旧",
+          "content": "道路復旧：国道1号線の復旧完了（進捗90%）、水道復旧：配水管の修復作業中（進捗60%）",
+          "category": "recovery_plan",
+          "metadata": {
+            "progress": {
+              "road": 90,
+              "water": 60
+            },
+            "type": "infrastructure"
+          }
+        },
+        "score": 0.4,
+        "relevance": "low"
+      }
+    ],
+    "q003": [
+      {
+        "document": {
+          "doc_id": "support_info_001",
+          "title": "支援物資配布情報",
+          "content": "配布場所：中央小学校、配布時間：9:00-17:00、配布物資：水、食料、毛布",
+          "category": "support_info",
+          "metadata": {
+            "location": "中央小学校",
+            "hours": "9:00-17:00",
+            "supplies": [
+              "水",
+              "食料",
+              "毛布"
+            ]
+          }
+        },
+        "score": 0.4,
+        "relevance": "low"
+      }
+    ]
+  },
+  "metrics": {
+    "total_queries": 3,
+    "total_results": 3,
+    "avg_results_per_query": 1.0,
+    "high_quality_results": 0,
+    "quality_ratio": 0.0,
+    "demo_precision": 0.0
+  }
+}
