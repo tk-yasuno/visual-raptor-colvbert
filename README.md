@@ -1,4 +1,4 @@
-# Visual RAPTOR ColVBERT Integration System
+# Visual RAPTOR ColBERT Integration System
 
 震災教訓継承のためのビジュアル文書検索システム - **ColModernVBERT (SigLIP) 対応版**
 
