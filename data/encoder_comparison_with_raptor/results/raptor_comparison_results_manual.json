@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-10-24T11:00:55",
+  "num_documents": 131,
+  "num_queries": 5,
+  "pdf_source": "data\\processed_pdfs\\images",
+  "note": "Manual compilation from terminal output",
+  "colbert_blip": {
+    "encoder_type": "ColVBERT (BLIP)",
+    "vision_model": "Salesforce/blip-image-captioning-base",
+    "tree_build_time_sec": 1120.71,
+    "tree_stats": {
+      "num_leaf_nodes": 27,
+      "num_internal_nodes": 10,
+      "total_nodes": 37,
+      "max_depth": 3
+    },
+    "gpu_peak_memory_tree_mb": 3217.0,
+    "clustering_evaluations": [
+      "Depth 0: 131 docs -> k=2 clusters (Sil=0.7799)",
+      "Depth 1: k=5 clusters selected",
+      "Depth 2-3: Various k from 2-5",
+      "Total clustering time: ~5 seconds across all depths"
+    ]
+  },
+  "colmodern_vbert_siglip": {
+    "encoder_type": "ColModernVBERT (SigLIP)",
+    "vision_model": "google/siglip-base-patch16-224",
+    "tree_build_time_sec": 1109.33,
+    "tree_stats": {
+      "num_leaf_nodes": 27,
+      "num_internal_nodes": 10,
+      "total_nodes": 37,
+      "max_depth": 3
+    },
+    "gpu_peak_memory_tree_mb": 4093.0,
+    "clustering_evaluations": [
+      "Depth 0: 131 docs -> k=2 clusters (Sil=0.7799)",
+      "Depth 1: k=5 clusters selected",
+      "Depth 2-3: Various k from 2-5",
+      "Total clustering time: ~4.5 seconds across all depths"
+    ]
+  },
+  "comparison": {
+    "tree_build_speedup": 1.01,
+    "speedup_description": "SigLIP 1.01x faster (1109.33s vs 1120.71s)",
+    "tree_structure": "Identical - both created 37 nodes (27 leaves, 10 internal), depth 3",
+    "gpu_memory_difference_mb": 876.0,
+    "gpu_memory_note": "SigLIP uses 27.2% more GPU memory (4093MB vs 3217MB)",
+    "embedding_time_comparison": {
+      "blip_depth0": "80.47秒",
+      "siglip_depth0": "77.08秒",
+      "siglip_speedup": "1.04x faster"
+    },
+    "clustering_quality": "Identical Silhouette scores at depth 0 (0.7799) - same embedding space"
+  },
+  "key_findings": [
+    "RAPTOR Tree構築時間: ほぼ同等 (1109s vs 1121s)",
+    "ツリー構造: 完全に同一 (37ノード、深度3)",
+    "GPU使用量: SigLIPが27%多い (4093MB vs 3217MB)",
+    "エンコーディング速度: SigLIPがわずかに高速",
+    "クラスタリング品質: 同一 (Silhouette Score 0.7799)"
+  ],
+  "limitations": [
+    "階層的検索の評価が未完了 (queryメソッドの実装問題)",
+    "検索レイテンシー測定未実施",
+    "ランキング品質指標未測定"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "build_time": 1145.1293218135834,
+  "stats": {
+    "num_leaf_nodes": 27,
+    "num_internal_nodes": 10,
+    "total_nodes": 37,
+    "max_depth": 3
+  },
+  "note": "Tree structure saved (Document objects not serializable)"
+}

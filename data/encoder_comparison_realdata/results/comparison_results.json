@@ -1,0 +1,72 @@
+{
+  "timestamp": "2025-10-24T08:20:21.734138",
+  "num_documents": 131,
+  "num_queries": 10,
+  "pdf_source": "data\\processed_pdfs\\images",
+  "colbert_blip": {
+    "encoder_type": "ColVBERT (BLIP)",
+    "total_encoding_time": 14.573303699493408,
+    "avg_doc_encoding_time_ms": 100.66580954398819,
+    "avg_query_encoding_time_ms": 23.510336875915527,
+    "avg_retrieval_latency_ms": 0.11894599971128629,
+    "median_retrieval_latency_ms": 0.11858999932883307,
+    "p95_retrieval_latency_ms": 0.12712400013697334,
+    "p99_retrieval_latency_ms": 0.13010480083175932,
+    "memory_mb": 0.3837890625,
+    "gpu_peak_memory_mb": 3297.0,
+    "gpu_avg_utilization": 30.928571428571427,
+    "ranking_metrics": {
+      "mrr": 0.24697916854893603,
+      "map": 0.11144944327337528,
+      "ndcg@5": 0.12563790180514303,
+      "ndcg@10": 0.12605392019825565,
+      "ndcg@20": 0.16098969322909634,
+      "precision@5": 0.13999999999999999,
+      "precision@10": 0.09000000000000001,
+      "precision@20": 0.07,
+      "recall@5": 0.10773809523809523,
+      "recall@10": 0.13690476190476192,
+      "recall@20": 0.2089285714285714
+    }
+  },
+  "colmodern_vbert_siglip": {
+    "encoder_type": "ColModernVBERT (SigLIP)",
+    "total_encoding_time": 10.80128526687622,
+    "avg_doc_encoding_time_ms": 71.71236649724364,
+    "avg_query_encoding_time_ms": 9.824585914611816,
+    "avg_retrieval_latency_ms": 0.13365099992370236,
+    "median_retrieval_latency_ms": 0.13064000086160377,
+    "p95_retrieval_latency_ms": 0.1544829993508756,
+    "p99_retrieval_latency_ms": 0.16141660185530785,
+    "memory_mb": 0.3837890625,
+    "gpu_peak_memory_mb": 4141.0,
+    "gpu_avg_utilization": 29.428571428571427,
+    "ranking_metrics": {
+      "mrr": 0.17783497783497781,
+      "map": 0.08264347598715326,
+      "ndcg@5": 0.06783204105472322,
+      "ndcg@10": 0.06881641261565598,
+      "ndcg@20": 0.08955947817966294,
+      "precision@5": 0.06000000000000001,
+      "precision@10": 0.04,
+      "precision@20": 0.035,
+      "recall@5": 0.04583333333333333,
+      "recall@10": 0.0625,
+      "recall@20": 0.10357142857142856
+    }
+  },
+  "comparison": {
+    "encoding_speedup": 1.3492194067112229,
+    "doc_encoding_speedup": 1.4037440745712584,
+    "query_encoding_speedup": 2.3930104617385752,
+    "retrieval_speedup": 0.8899746337789413,
+    "gpu_memory_reduction": -25.599029420685472,
+    "ranking_improvements": {
+      "mrr_diff": -0.06914419071395822,
+      "map_diff": -0.02880596728622202,
+      "ndcg@10_diff": -0.05723750758259967,
+      "precision@10_diff": -0.05000000000000001,
+      "recall@10_diff": -0.07440476190476192
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-10-24T11:48:12.249535",
+  "num_documents": 131,
+  "num_queries": 5,
+  "pdf_source": "data\\processed_pdfs\\images",
+  "colbert_blip": {
+    "encoder_type": "ColVBERT (BLIP)",
+    "tree_build_time": 1173.333571434021,
+    "tree_stats": {
+      "num_leaf_nodes": 27,
+      "num_internal_nodes": 10,
+      "total_nodes": 37,
+      "max_depth": 3
+    },
+    "gpu_peak_memory_tree_mb": 3217.0,
+    "avg_search_time_ms": 0.0,
+    "median_search_time_ms": 0.0,
+    "tree_file": "data\\encoder_comparison_with_raptor\\raptor_trees\\colbert_blip_tree.json"
+  },
+  "colmodern_vbert_siglip": {
+    "encoder_type": "ColModernVBERT (SigLIP)",
+    "tree_build_time": 1145.1293218135834,
+    "tree_stats": {
+      "num_leaf_nodes": 27,
+      "num_internal_nodes": 10,
+      "total_nodes": 37,
+      "max_depth": 3
+    },
+    "gpu_peak_memory_tree_mb": 4093.0,
+    "avg_search_time_ms": 0.0,
+    "median_search_time_ms": 0.0,
+    "tree_file": "data\\encoder_comparison_with_raptor\\raptor_trees\\colmodern_siglip_tree.json"
+  },
+  "comparison": {
+    "tree_build_speedup": 1.0246297506169604,
+    "search_speedup": 0,
+    "tree_size_difference": 0
+  }
+}
